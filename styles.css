@@ -1,2 +1,22 @@
+.container{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
 
-/* Your CSS Code here. */
+.box{
+	height: 100px;
+	width: 100px;
+}
+
+.gr{
+	background-color: green;
+}
+
+.r{
+	background-color: red;
+}
+
+.b{
+	background-color: blue;
+}
